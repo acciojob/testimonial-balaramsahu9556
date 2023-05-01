@@ -9,4 +9,7 @@ body{
 	border:10px solid #f5f5f5;
 	position:relative;
 }
+p:nth-child(2){
+	text-align:right;
+}
 
